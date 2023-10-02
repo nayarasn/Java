@@ -7,6 +7,5 @@ public class Main {
         ger.imprimirDetalhes();
         System.out.println();
         dir.imprimirDetalhes();
-
     }
 }
